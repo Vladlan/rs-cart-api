@@ -1,0 +1,20 @@
+# We will install dependencies and build inside of container
+dist
+node_modules
+
+# Docker configuration file
+Dockerfiles
+
+# Dev files
+.prettierrc
+.gitignore
+.eslintrc.js
+npm-debug.log
+README.md
+
+# Tests
+test
+**/*spec.ts
+
+.git
+
